@@ -1,2 +1,9 @@
-# financial-risk-analytics
-Financial risk and fraud analytics using Power BI, Python, SQL and Excel.
+# Financial Risk Analytics
+
+ Project currently under development.
+
+Tech Stack:
+- Power BI
+- SQL
+- Python (Pandas)
+- Microsoft Excel
